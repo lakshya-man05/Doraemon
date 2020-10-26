@@ -1,12 +1,12 @@
 # Using Ubuntu 20.10
-FROM Alpha-is-here/Doraemon:groovy
+FROM aidilaryanto/projectdils:groovy
 
 # Clone Repo
-RUN git clone -b master https://github.com/Alpha-is-here/Doraemon.git /home/ProjectDils/
+RUN git clone -b master https://github.com/aidilaryanto/ProjectDils /home/ProjectDils/
 
 # Set Working Directory
-RUN mkdir /home/Doraemon/bin/
-WORKDIR /home/Doraemon/
+RUN mkdir /home/ProjectDils/bin/
+WORKDIR /home/ProjectDils/
 
 # Finalization
 CMD ["python3","-m","userbot"]
