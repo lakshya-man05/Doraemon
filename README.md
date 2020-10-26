@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href="https://github.com/Alpha-is-here/Doraemon/actions?query=workflow%3AFailCheck" > <img src="https://img.shields.io/github/workflow/status/Alpha-is-here/Doraemon/FailCheck/master?color=red&style=for-the-badge&logo=github-actions&logoColor=white" alt="Failcheck" /></a>
-    <a href="https://github.com/Alpha-is-here/Doraemon/actions?query=workflow%3Apylint"> <img src="https://img.shields.io/github/workflow/status/aidilaryanto/Doraemon/pylint/master?color=red&label=pylint&style=for-the-badge&logo=github-actions&logoColor=white" alt="Pylint" /></a>
+    <a href="https://github.com/Alpha-is-here/Doraemon/actions?query=workflow%3Apylint"> <img src="https://img.shields.io/github/workflow/status/Alpha-is-here/Doraemon/pylint/master?color=red&label=pylint&style=for-the-badge&logo=github-actions&logoColor=white" alt="Pylint" /></a>
     <a href="https://www.codacy.com/manual/Alpha-is-here/Doraemon?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Alpha-is-here/ProjectDils&amp;utm_campaign=Badge_Grade"><img src="https://img.shields.io/codacy/grade/bc330dedc3e64332833b2f1ef00cb088?color=red&style=for-the-badge&logo=codacy" alt="codacy badge" /></a></br>
     <a href="https://github.com/Alpha-is-here/Doraemon/commits/master"><img src="https://img.shields.io/github/last-commit/aidilaryanto/Doraemon/master?color=red&style=for-the-badge&logo=github" alt="commit" /></a>
     <a href="https://github.com/Alpha-is-here/Doraemon"><img src="https://img.shields.io/github/repo-size/Alpha-is-here/Doraemon?color=red&style=for-the-badge&logo=github" alt="size" /></a>
