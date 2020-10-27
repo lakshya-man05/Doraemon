@@ -33,9 +33,10 @@ A modular Telegram userbot running on Python3 with sqlalchemy database.
 Based on RaphielGang's [Telegram-Paperplane](https://github.com/RaphielGang/Telegram-Paperplane) userbot with a lot of changes, features and module.
 
 ## How To Host
-Deploy Doraemon to Heroku:
+Deploy Doraemon to Heroku
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Alpha-is-here/Doraemon)
+
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Alpha-is-here/Doraemon/tree/master"> <img src="https://telegra.ph/file/3d5baaff9cbb43c5a525e.png" alt="Deploy to Heroku" width="200" height="33.33"/></a></p>
  
 
 ## Generate String Session
