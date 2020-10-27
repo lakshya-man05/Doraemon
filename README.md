@@ -42,7 +42,7 @@ Deploy Doraemon to Heroku
 ## Generate String Session
 Generate string session on Repl.it:
 
-<p align="center"><a href="http://string.projectdils.repl.run"> <img src="https://telegra.ph/file/3ef54caa322b1c5feadb9.png" alt="Generate String Session" width="200" height="33.33"/></a></p>
+<p align="center"><a href="https://genaratestringsessionDoraemon.theavengers.repl.run"> <img src="https://telegra.ph/file/3ef54caa322b1c5feadb9.png" alt="Generate String Session" width="200" height="33.33"/></a></p>
 
 ### or Run on your terminal
 ```
