@@ -46,26 +46,22 @@ Generate string session on Repl.it:
 
 ### or Run on your terminal
 ```
-wget https://raw.githubusercontent.com/aidilaryanto/ProjectDils/master/terminal_getstring.sh && bash terminal_getstring.sh
+wget https://raw.githubusercontent.com/Alpha-is-here/Doraemon/master/terminal_getstring.sh && bash terminal_getstring.sh
 ```
 
-## Google Drive Setup
-Google Drive setup tutorial:
-
-<p align="center"><a href="https://telegra.ph/How-To-Setup-Google-Drive-04-03"> <img src="https://telegra.ph/file/9a6727fa0a8c631caf294.png" alt="Google Drive Setup" width="200" height="33.33"/></a></p>
 
 ## Groups and Support
-Join [Userbotindo Support Group](https://t.me/userbotindo) for discussion, bug reporting, and help.
+Join [Doraemon Support Group](https://t.me/Doraemon_support) for discussion, bug reporting, and help.
 
 ## Credits
-* [RaphielGang](https://github.com/RaphielGang) - Telegram-Paperplane
-* [AvinashReddy3108](https://github.com/AvinashReddy3108) - PaperplaneExtended
-* [Mkaraniya](https://github.com/mkaraniya) & [Dev73](https://github.com/Devp73) - OpenUserBot
-* [Mr.Miss](https://github.com/keselekpermen69) - UserButt
-* [adekmaulana](https://github.com/adekmaulana) - ProjectBish
-* [MoveAngel](https://github.com/MoveAngel) - One4uBot
+* [RaphielGang]
+* [AvinashReddy3108]
+* [Mkaraniya]
+* [Mr.Miss]
+* [adekmaulana]
+* [MoveAngel]
 
-And [others](https://github.com/aidilaryanto/ProjectDils/graphs/contributors) that help to make this userbot awesome.
+
 
 ## License
 Licensed under [Raphielscape Public License](https://github.com/aidilaryanto/ProjectDils/blob/master/LICENSE) - Version 1.d, February 2020
