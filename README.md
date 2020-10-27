@@ -15,7 +15,7 @@
 ```
 #include <std/disclaimer.h>
 /**
-    Your Telegram account may get banned.
+    Your Telegram account may get banned..
     I am not responsible for any improper use of this bot
     This bot is intended for the purpose of having fun with memes,
     as well as efficiently managing groups.
